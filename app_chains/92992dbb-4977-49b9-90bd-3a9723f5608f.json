@@ -1,0 +1,8 @@
+{
+  "name": "hades86madara",
+  "logo": "https://p.ipic.vip/027m8b.png",
+  "rpc_url": "http://43.153.207.49:9944", 
+  "explorer_url": "http://43.153.207.49:4000",
+  "metrics_endpoint": "http://43.153.207.49:9615/metrics",		 
+  "id": "92992dbb-4977-49b9-90bd-3a9723f5608f"
+}
